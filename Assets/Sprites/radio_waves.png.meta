@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 1c1ff43e5e0da364fa0beadfbcf7b505
+timeCreated: 1517153742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: radio_waves_0
+    21300002: radio_waves_1
+    21300004: radio_waves_2
+    21300006: radio_waves_3
+    21300008: radio_waves_4
+    21300010: radio_waves_5
+    21300012: radio_waves_6
+    21300014: radio_waves_7
+    21300016: radio_waves_8
+    21300018: radio_waves_9
+    21300020: radio_waves_10
+    21300022: radio_waves_11
+    21300024: radio_waves_12
+    21300026: radio_waves_13
+    21300028: radio_waves_14
+    21300030: radio_waves_15
+    21300032: radio_waves_16
+    21300034: radio_waves_17
+    21300036: radio_waves_18
+    21300038: radio_waves_19
+    21300040: radio_waves_20
+    21300042: radio_waves_21
+    21300044: radio_waves_22
+    21300046: radio_waves_23
+    21300048: radio_waves_24
+    21300050: radio_waves_25
+    21300052: radio_waves_26
+    21300054: radio_waves_27
+    21300056: radio_waves_28
+    21300058: radio_waves_29
+    21300060: radio_waves_30
+    21300062: radio_waves_31
+    21300064: radio_waves_32
+    21300066: radio_waves_33
+    21300068: radio_waves_34
+    21300070: radio_waves_35
+    21300072: radio_waves_36
+    21300074: radio_waves_37
+    21300076: radio_waves_38
+    21300078: radio_waves_39
+    21300080: radio_waves_40
+    21300082: radio_waves_41
+    21300084: radio_waves_42
+    21300086: radio_waves_43
+    21300088: radio_waves_44
+    21300090: radio_waves_45
+    21300092: radio_waves_46
+    21300094: radio_waves_47
+    21300096: radio_waves_48
+    21300098: radio_waves_49
+    21300100: radio_waves_50
+    21300102: radio_waves_51
+    21300104: radio_waves_52
+    21300106: radio_waves_53
+    21300108: radio_waves_54
+    21300110: radio_waves_55
+    21300112: radio_waves_56
+    21300114: radio_waves_57
+    21300116: radio_waves_58
+    21300118: radio_waves_59
+    21300120: radio_waves_60
+    21300122: radio_waves_61
+    21300124: radio_waves_62
+    21300126: radio_waves_63
+    21300128: radio_waves_64
+    21300130: radio_waves_65
+    21300132: radio_waves_66
+    21300134: radio_waves_67
+    21300136: radio_waves_68
+    21300138: radio_waves_69
+    21300140: radio_waves_70
+    21300142: radio_waves_71
+    21300144: radio_waves_72
+    21300146: radio_waves_73
+    21300148: radio_waves_74
+    21300150: radio_waves_75
+    21300152: radio_waves_76
+    21300154: radio_waves_77
+    21300156: radio_waves_78
+    21300158: radio_waves_79
+    21300160: radio_waves_80
+    21300162: radio_waves_81
+    21300164: radio_waves_82
+    21300166: radio_waves_83
+    21300168: radio_waves_84
+    21300170: radio_waves_85
+    21300172: radio_waves_86
+    21300174: radio_waves_87
+    21300176: radio_waves_88
+    21300178: radio_waves_89
+    21300180: radio_waves_90
+    21300182: radio_waves_91
+    21300184: radio_waves_92
+    21300186: radio_waves_93
+    21300188: radio_waves_94
+    21300190: radio_waves_95
+    21300192: radio_waves_96
+    21300194: radio_waves_97
+    21300196: radio_waves_98
+    21300198: radio_waves_99
+    21300200: radio_waves_100
+    21300202: radio_waves_101
+    21300204: radio_waves_102
+    21300206: radio_waves_103
+    21300208: radio_waves_104
+    21300210: radio_waves_105
+    21300212: radio_waves_106
+    21300214: radio_waves_107
+    21300216: radio_waves_108
+    21300218: radio_waves_109
+    21300220: radio_waves_110
+    21300222: radio_waves_111
+    21300224: radio_waves_112
+    21300226: radio_waves_113
+    21300228: radio_waves_114
+    21300230: radio_waves_115
+    21300232: radio_waves_116
+    21300234: radio_waves_117
+    21300236: radio_waves_118
+    21300238: radio_waves_119
+    21300240: radio_waves_120
+    21300242: radio_waves_121
+    21300244: radio_waves_122
+    21300246: radio_waves_123
+    21300248: radio_waves_124
+    21300250: radio_waves_125
+    21300252: radio_waves_126
+    21300254: radio_waves_127
+    21300256: radio_waves_128
+    21300258: radio_waves_129
+    21300260: radio_waves_130
+    21300262: radio_waves_131
+    21300264: radio_waves_132
+    21300266: radio_waves_133
+    21300268: radio_waves_134
+    21300270: radio_waves_135
+    21300272: radio_waves_136
+    21300274: radio_waves_137
+    21300276: radio_waves_138
+    21300278: radio_waves_139
+    21300280: radio_waves_140
+    21300282: radio_waves_141
+    21300284: radio_waves_142
+    21300286: radio_waves_143
+    21300288: radio_waves_144
+    21300290: radio_waves_145
+    21300292: radio_waves_146
+    21300294: radio_waves_147
+    21300296: radio_waves_148
+    21300298: radio_waves_149
+    21300300: radio_waves_150
+    21300302: radio_waves_151
+    21300304: radio_waves_152
+    21300306: radio_waves_153
+    21300308: radio_waves_154
+    21300310: radio_waves_155
+    21300312: radio_waves_156
+    21300314: radio_waves_157
+    21300316: radio_waves_158
+    21300318: radio_waves_159
+    21300320: radio_waves_160
+    21300322: radio_waves_161
+    21300324: radio_waves_162
+    21300326: radio_waves_163
+    21300328: radio_waves_164
+    21300330: radio_waves_165
+    21300332: radio_waves_166
+    21300334: radio_waves_167
+    21300336: radio_waves_168
+    21300338: radio_waves_169
+    21300340: radio_waves_170
+    21300342: radio_waves_171
+    21300344: radio_waves_172
+    21300346: radio_waves_173
+    21300348: radio_waves_174
+    21300350: radio_waves_175
+    21300352: radio_waves_176
+    21300354: radio_waves_177
+    21300356: radio_waves_178
+    21300358: radio_waves_179
+    21300360: radio_waves_180
+    21300362: radio_waves_181
+    21300364: radio_waves_182
+    21300366: radio_waves_183
+    21300368: radio_waves_184
+    21300370: radio_waves_185
+    21300372: radio_waves_186
+    21300374: radio_waves_187
+    21300376: radio_waves_188
+    21300378: radio_waves_189
+    21300380: radio_waves_190
+    21300382: radio_waves_191
+    21300384: radio_waves_192
+    21300386: radio_waves_193
+    21300388: radio_waves_194
+    21300390: radio_waves_195
+    21300392: radio_waves_196
+    21300394: radio_waves_197
+    21300396: radio_waves_198
+    21300398: radio_waves_199
+    21300400: radio_waves_200
+    21300402: radio_waves_201
+    21300404: radio_waves_202
+    21300406: radio_waves_203
+    21300408: radio_waves_204
+    21300410: radio_waves_205
+    21300412: radio_waves_206
+    21300414: radio_waves_207
+    21300416: radio_waves_208
+    21300418: radio_waves_209
+    21300420: radio_waves_210
+    21300422: radio_waves_211
+    21300424: radio_waves_212
+    21300426: radio_waves_213
+    21300428: radio_waves_214
+    21300430: radio_waves_215
+    21300432: radio_waves_216
+    21300434: radio_waves_217
+    21300436: radio_waves_218
+    21300438: radio_waves_219
+    21300440: radio_waves_220
+    21300442: radio_waves_221
+    21300444: radio_waves_222
+    21300446: radio_waves_223
+    21300448: radio_waves_224
+    21300450: radio_waves_225
+    21300452: radio_waves_226
+    21300454: radio_waves_227
+    21300456: radio_waves_228
+    21300458: radio_waves_229
+    21300460: radio_waves_230
+    21300462: radio_waves_231
+    21300464: radio_waves_232
+    21300466: radio_waves_233
+    21300468: radio_waves_234
+    21300470: radio_waves_235
+    21300472: radio_waves_236
+    21300474: radio_waves_237
+    21300476: radio_waves_238
+    21300478: radio_waves_239
+    21300480: radio_waves_240
+    21300482: radio_waves_241
+    21300484: radio_waves_242
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: radio_waves_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: radio_waves_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
